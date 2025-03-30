@@ -12,7 +12,7 @@ ai_assistant/
 ## 🚀 Installation  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/Friday-Voice-Assistant.git
+   git clone https://github.com/basantrauniyar15/Friday-Voice-Assistant.git
    cd Friday-Voice-Assistant/ai_assistant
    ```
 2. **Install dependencies:**  
@@ -62,7 +62,4 @@ ai_assistant/
 - 🔥 Open-source and **fully customizable** to fit your needs.  
 
 ---
-📢 **Contributions & Feedback**  
-Feel free to fork this repository, submit pull requests, or report any issues. Your feedback is always welcome!  
-
 📢 **Built for efficiency, designed for simplicity.**
